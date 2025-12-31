@@ -1,6 +1,6 @@
 package tp1;
 
-public class ex4 {
+public class EX4{
 	public static void main(String[] args){ 
 		String S;
 		int n;
@@ -9,4 +9,5 @@ public class ex4 {
 		for ( int i=0; i <n;i++)
 			System.out.println(S);
 		}
+
 		}
