@@ -1,6 +1,6 @@
 package tp1;
 
-public class ex2 {
+public class EX2{
 	public static void main(String[] args) 
 	{ 
 	float moyenne= 10.5f;
@@ -9,4 +9,5 @@ public class ex2 {
 	System.out.println("Mohamed"+1);
 	System.out.println("La moyenne"+"de la classe="+moyenne+2);
 	}
+
 	}
