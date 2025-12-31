@@ -1,6 +1,7 @@
 package tp1;
 
-public class ex9 {
+public class EX9
+	{
 	 public static void main(String[] args) {
 	        if (args.length < 2) {
 	            System.out.println("Usage: java Ex9 <X> <n>");
@@ -15,5 +16,6 @@ public class ex9 {
 	        System.out.println(X + "^" + n + " = " + result);
 	    }
 	}
+
 
 
