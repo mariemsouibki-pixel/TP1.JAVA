@@ -1,6 +1,6 @@
 package tp1;
 
-public class ex8 {
+public class EX8{
 	public static void main(String[] args) {
         
 		   if (args.length < 1) {
@@ -17,5 +17,6 @@ public class ex8 {
 	    }
 	}
     
+
 
 
