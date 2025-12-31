@@ -1,6 +1,6 @@
 package tp1;
 
-public class ex6 {
+public class EX6{
 
 	public static void main(String[] args) {
         if (args.length != 6) {
@@ -18,4 +18,5 @@ public class ex6 {
         
         System.out.println("Le maximum est = " + max);
     }
+
 }
