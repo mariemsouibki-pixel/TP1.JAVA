@@ -1,6 +1,6 @@
 package tp1;
 
-public class ex7 {
+public class EX7 {
 	public static void main(String[] args) {
         if (args.length != 1) {
             System.out.println("Usage: java Ex7 <nombre>");
@@ -29,5 +29,6 @@ public class ex7 {
         }
     }
 }
+
 
 
