@@ -1,6 +1,6 @@
 package tp1;
 
-public class ex3 {
+public class EX3 {
 	public static void main(String[] args){ 
 		int a, b, c, d, e, f;
 		a = 100;
@@ -13,5 +13,6 @@ public class ex3 {
 		System.out.println("a="+ a+"\nb="+b+"\n c="+c+"\n d="+d+"\n e="+e+"\n f="+f); 
 		}
 		}
+
 
 
